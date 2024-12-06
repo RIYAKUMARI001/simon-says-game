@@ -2,7 +2,7 @@
 
 A fun and interactive memory-based game where the player follows the sequence of colors shown by the game. Each level adds a new color to the sequence, and the player must repeat it correctly to progress. The game keeps track of the highest score achieved!
 
-Features:
+🚀Features:
 
 1.Randomized sequences of colored buttons for each level.
 
@@ -12,7 +12,7 @@ Features:
 
 4.Displays "Game Over" when the user makes a mistake.
 
-Project Structure:
+-> Project Structure:
 
 The project consists of three files:
 
@@ -32,7 +32,7 @@ The JavaScript file that handles the game logic.
 
 Manages sequences, user interactions, level progression, and game over states.
 
-How to Play:
+🚀How to Play:
 
 Open the index.html file in your browser.
 
@@ -46,7 +46,7 @@ If you complete the sequence correctly, you'll move to the next level, and a new
 
 If you make a mistake, the game will display your score and record your highest score.
 
-Technologies Used:
+🖥️ Technologies Used:
 
 HTML5: Structure of the game.
 
@@ -54,10 +54,7 @@ CSS3: Styling and visual feedback.
 
 JavaScript: Game logic and user interaction.
 
-Screenshots
-Here’s how the game looks (add your screenshots here if needed).
-
-Future Improvements:
+📚 Future Improvements:
 
 Add sound effects for button clicks and flashes.
 
@@ -65,7 +62,7 @@ Make the game mobile-friendly with responsive designs.
 
 Save the highest score in local storage to persist data between sessions.
 
-How to Run:
+🔧 How to Run:
 
 Download or clone this repository:
 
@@ -73,11 +70,11 @@ bash
 
 Copy code
 
-git clone <repository-link>
+git clone https://github.com/RIYAKUMARI001/simon-says-game.git <repo-link>
 
 Navigate to the project folder.
 
 Open the index.html file in your browser to start playing.
 
-
+#Live demo -
 
