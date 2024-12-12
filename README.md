@@ -76,5 +76,5 @@ Navigate to the project folder.
 
 Open the index.html file in your browser to start playing.
 
-#Live demo -
+#Live demo - https://riyakumari001.github.io/simon-says-game/
 
